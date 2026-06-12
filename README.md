@@ -15,11 +15,13 @@ The pipeline combines solar imaging observations, automated feature detection, s
 If you use ALMANAC in scientific research, please cite:
 
 > **T. Williams & H. Morgan (2022) Space Weather, 20 (11), e2022SW003253**
+
 > **T. Williams, C. B. Prior, D. MacTaggart, H. Morgan (2026), ApJ, In Review**
 
 Additional publications using or extending ALMANAC:
 
 > **O. P. M. Aslam, D. MacTaggart, T. Williams, L. Fletcher, P. Romano (2024) MNRAS, 534, 444**
+
 > **T. Williams, C. B. Prior, D. MacTaggart (2025) ApJ, 980, 102**
 
 
